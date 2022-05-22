@@ -1,1 +1,1 @@
-# ExceptionGenerator.github.io
+# **_This repository is used as a host_**
